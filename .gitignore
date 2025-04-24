@@ -1,0 +1,16 @@
+# Ignore virtual environment
+Lib/
+Scripts/
+pyvenv.cfg
+__pycache__/
+*.pyc
+
+# Ignore system files
+.DS_Store
+
+# Ignore any CSVs or local data
+*.csv
+
+# Ignore all other files not listed explicitly
+*.log
+*.tmp
