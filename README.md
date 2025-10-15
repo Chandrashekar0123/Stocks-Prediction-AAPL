@@ -7,7 +7,7 @@ The stock market is volatile, and accurately predicting future stock prices is a
 
 ## 🧑‍💻 **Project Description**
 The project leverages a **Long Short-Term Memory (LSTM)** model to predict future stock prices. LSTM networks are well-suited for time series forecasting tasks, such as predicting stock prices, due to their ability to capture temporal dependencies. The app provides a user-friendly interface where users can input the stock symbol, start and end dates, and select the time interval for stock data analysis. The model outputs future stock price predictions, which are visualized through interactive charts.
----
+
 ## 🎬 Demo Video
 
 [Watch the Stock Prediction Demo Video](https://raw.githubusercontent.com/Chandrashekar0123/Stocks-Prediction-AAPL/main/stock-prediction-video.mp4)
