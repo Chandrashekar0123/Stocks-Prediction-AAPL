@@ -1,12 +1,22 @@
 # Stock Price Prediction (AAPL)
 
 Welcome to the **Stock Price Prediction** project, a machine learning-based model designed to forecast future stock prices of **Apple Inc. (AAPL)**. This app uses historical stock price data and advanced deep learning techniques to predict future prices, offering insights into the potential trends of the stock market.
-
+---
 ## 🚨 **Problem Statement**
 The stock market is volatile, and accurately predicting future stock prices is a challenging but important task. Investors and traders rely on forecasting models to make informed decisions. In this project, we aim to create a model that predicts future stock prices of **Apple Inc. (AAPL)** based on historical data. By doing so, we can provide a tool that helps investors anticipate market movements and make data-driven decisions.
-
+---
 ## 🧑‍💻 **Project Description**
 The project leverages a **Long Short-Term Memory (LSTM)** model to predict future stock prices. LSTM networks are well-suited for time series forecasting tasks, such as predicting stock prices, due to their ability to capture temporal dependencies. The app provides a user-friendly interface where users can input the stock symbol, start and end dates, and select the time interval for stock data analysis. The model outputs future stock price predictions, which are visualized through interactive charts.
+---
+## 🎬 Demo Video
+
+[Watch the Stock Prediction Demo Video](https://raw.githubusercontent.com/Chandrashekar0123/Stocks-Prediction-AAPL/main/stock-prediction-video.mp4)
+
+✅ The video walkthrough includes:
+- Stock data visualization
+- Prediction model explanation
+- Real-time stock price forecasting
+---
 
 ## 🚀 **Features**
 - **Stock Price Prediction**: Predict future stock prices for Apple Inc. (AAPL) based on past performance.
