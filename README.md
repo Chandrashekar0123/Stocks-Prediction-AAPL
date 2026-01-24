@@ -67,6 +67,8 @@ To get started with this project, follow these simple steps:
     pip install -r requirements.txt
     ```
 
+---
+
 ## 📊 **How to Use**
 1. **Run the Streamlit app:**
 
@@ -77,6 +79,8 @@ To get started with this project, follow these simple steps:
 2. **Input**: Enter the stock symbol (e.g., `AAPL`), select the start and end dates, and choose the interval (Daily, Weekly, Monthly, Yearly).
 3. **Prediction**: Click the "Predict Future Stock Prices" button to generate stock price predictions and view the visualized results.
 
+---
+
 ## 📂 **Files in this Repository**
 - `app.py`: Main Streamlit app to interact with the model and visualize predictions.
 - `model.h5`: Trained LSTM deep learning model for stock price prediction.
@@ -84,11 +88,17 @@ To get started with this project, follow these simple steps:
 - `predicted_vs_actual.png`: A sample image showing predicted vs. actual stock prices.
 - `requirements.txt`: List of required Python libraries for the project.
 
+---
+
 ## ⚠️ **Disclaimer**
 This is a **stock price prediction app** for educational purposes only. The predictions are based on historical data and deep learning models, but they are not guaranteed to be accurate. **Do not rely solely on this for investment decisions.**
 
+---
+
 ## 📢 **Contributing**
 Feel free to fork this repository, create issues, and submit pull requests for any enhancements or bug fixes!
+
+---
 
 ## 📄 **License**
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
