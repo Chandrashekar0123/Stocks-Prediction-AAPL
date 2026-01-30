@@ -2,8 +2,12 @@
 
 Welcome to the **Stock Price Prediction** project, a machine learning-based model designed to forecast future stock prices of **Apple Inc. (AAPL)**. This app uses historical stock price data and advanced deep learning techniques to predict future prices, offering insights into the potential trends of the stock market.
 
+---
+
 ## 🚨 **Problem Statement**
 The stock market is volatile, and accurately predicting future stock prices is a challenging but important task. Investors and traders rely on forecasting models to make informed decisions. In this project, we aim to create a model that predicts future stock prices of **Apple Inc. (AAPL)** based on historical data. By doing so, we can provide a tool that helps investors anticipate market movements and make data-driven decisions.
+
+---
 
 ## 🧑‍💻 **Project Description**
 The project leverages a **Long Short-Term Memory (LSTM)** model to predict future stock prices. LSTM networks are well-suited for time series forecasting tasks, such as predicting stock prices, due to their ability to capture temporal dependencies. The app provides a user-friendly interface where users can input the stock symbol, start and end dates, and select the time interval for stock data analysis. The model outputs future stock price predictions, which are visualized through interactive charts.
@@ -18,12 +22,30 @@ The project leverages a **Long Short-Term Memory (LSTM)** model to predict futur
 - Real-time stock price forecasting
 ---
 
+<img width="621" height="452" alt="image" src="https://github.com/user-attachments/assets/af1295a6-6903-4e39-982b-24a15907c1b0" />
+
+Taking Input from User for prediction
+---
+
 ## 🚀 **Features**
 - **Stock Price Prediction**: Predict future stock prices for Apple Inc. (AAPL) based on past performance.
 - **Visualization**: Interactive charts using Plotly to display predicted vs. actual stock prices.
 - **User-Friendly Interface**: A clean and intuitive interface built with **Streamlit**.
 - **Model**: LSTM-based deep learning model for stock price forecasting.
 - **Data**: Historical stock data sourced from Yahoo Finance.
+
+---
+
+<img width="627" height="389" alt="image" src="https://github.com/user-attachments/assets/e019def5-9441-495b-a6c9-21b88f6d5bb7" />
+
+OUTPUT predictions of Stocks
+
+---
+<img width="634" height="334" alt="image" src="https://github.com/user-attachments/assets/4cebe0d5-a9d6-420e-bdda-1f0fa6964119" />
+
+Visual Representation of Stocks
+
+---
 
 ## 🧑‍💻 **Installation & Setup**
 
@@ -92,6 +114,10 @@ To get started with this project, follow these simple steps:
 
 ## ⚠️ **Disclaimer**
 This is a **stock price prediction app** for educational purposes only. The predictions are based on historical data and deep learning models, but they are not guaranteed to be accurate. **Do not rely solely on this for investment decisions.**
+
+---
+
+<img width="277" height="496" alt="image" src="https://github.com/user-attachments/assets/85a825b4-8572-4dde-af82-59735782cc2a" />
 
 ---
 
